@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="org.testifyproject.mock:mockito:1.0.6" type="repository">
+    <properties maven-id="org.testifyproject.mock:mockito:1.0.6" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mockito-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/external-guava-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mockito-core-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-1.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/byte-buddy-agent-1.7.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/objenesis-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
